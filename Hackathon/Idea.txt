@@ -1,0 +1,11 @@
+Website - 2 options - outfit shop , selection
+				|	|
+				|   gender ,  body type skin tone , occasion
+				|   college or school party formal wedding , image 
+					upload , hair style , footwear
+			 	|
+				budget- low medium high
+
+				color preference , 
+
+point wise text detailed , demo images , overall outfit , final verdict 

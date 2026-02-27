@@ -1,0 +1,8 @@
+streamlit - frontend
+gradio - frontend
+
+
+https://aistudio.google.com/
+
+
+https://ai.google.dev/gemini-api/docs

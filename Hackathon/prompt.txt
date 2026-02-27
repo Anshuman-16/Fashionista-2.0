@@ -1,0 +1,56 @@
+You are a mega web ui and web developer and i want to build a website using streamlit and google genai and python,  i have the following specifications : 
+
+
+
+Topic name: StyleSense : Generative AI–Powered Fashion Recommendation System
+
+Website name : Fashionista (Try to use most elegant and efficient font and color and borders)
+
+watermark / credits : This website is developed by The Fashionista team - (Anshuman,Nitish,Vaishnavi,Renusri)
+
+
+
+website idea: 
+
+The entrance interface of the website should have its name in bold and big in the middle of the page and have the credits or watermarks at the bottom right/left corner and a login options for saving their work at the top right (Keep in mind that login is not neccessary but if someone log's in then store his previous responses) 
+
+
+
+Display options: 
+
+The website should have two options below the tile and surroounded by a translucent border , 
+1st option - The Personal Stylist: Ultimate Shopping Blueprint
+2nd option - The Style Gallery: Wardrobe Picks
+
+Working of options:
+
+1st option: If the use choses first option take the following inputs:
+
+- Gender,Body type , Skin tone , Occasion (for wearing the outfit , ex: College,Party,Meeting,Wedding etc..) , budget for buying the outfit(Low , mid and high) , color preference for the outfit , uploading reference images(If needed - optional) , also ask if they want to include any accessories or not
+
+All options mentioned above should be displayed like a menu to be selected by the user and not by typing , for budget (Low - Below 3000 INR , Mid- 3k to 6k INR, High(Above 6k) , for body types and skin tones dont just display text menu but instead display image symbols of body types (size bare enough to be visible) and variety of skin tone colors (in square boxes) , display 5-6 occations as menu and keep and others option so the user can enter the occasion apart from the mentioned ones , keep the max image size just enough so it can take high quality images (And enable both camera and upload option) , And in gender mention only (Male and Female with respective symbols) , only take color preference of outfit as a text input.Also give others option to body types and enter the desired text along with menu
+
+2nd option : 
+Gender,Body type , Skin tone , Occasion (for wearing the outfit , ex: College,Party,Meeting,Wedding etc..) , images of the outfits and accessories they alreay have(to be uploaded or taken on spot) ,  
+
+All options mentioned above should be displayed like a menu to be selected by the user and not by typing , High(Above 6k) , for body types and skin tones dont just display text menu but instead display image symbols of body types (size bare enough to be visible) and variety of skin tone colors (in square boxes) , display 5-6 occations as menu and keep and others option so the user can enter the occasion apart from the mentioned ones , keep the max image size just enough so it can take high quality images (And enable both camera and upload option) , And in gender mention only (Male and Female with respective symbols) , only take color preference of outfit as a text input.Also give others option to body types and enter the desired text along with menu
+
+Final output :
+
+After taking all the inputs display results as instructed below:
+
+for 1st option - Display the outfit suggestions and styling in only points and detailed and described manner using genai text generator and generate demo images for each and every part of the outfit (min 2 to 3) , and also generate the overall outfit look at the end of the response , and apart from the above text give a final verdict summarising the above text , and try to find those outfit and accessories(if selected as yes) images online and provide shopping links for them (under the budget)
+and also provide color combinations (in the final verdict)
+
+for 2nd option - Display the outfit suggestions and different styling in only points and detailed and described manner using genai text generator and generate demo images for each and every part of the outfit (min 2 to 3) , and also generate the overall outfit look at the end of the response , and apart from the above text give a final verdict summarising the above text , also include accessories (If selected yes) , If the uploaded outfits doesnot match the occasion quite well then give some other outfit suggestions (with demo pictures) and also provide color combinations (in the final verdict)
+
+The interface after selecting the options should be similar to chatgpt's interface with previous responses in the left and the reponse in middle 
+
+The website should not look plain and empty and add some animations good and aesthetic designs to grap the users attention and make the website more interactive 
+
+ The 1st image uploaded is a reference of the theme of the website (Try to build it that way) , and the second image is example of body shapes (Dont only show the image in menu but also show the name of body shape according to the image , ex : pear, triangle, inverted triangle etc...) 
+
+and try to include atleast 5 variations of skintone colors , and outfit colors in the menu , and after the end of each response give a good compliment
+
+Buid a website like this using streamlit , genai , and other if needed (I only have image generation api access to genai only) 
+
