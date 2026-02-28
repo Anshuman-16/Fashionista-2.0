@@ -75,28 +75,32 @@ User Input (Preferences / Occasion / Weather / Image)
 ---
 
 ## 📂 Project Structure
-
-```
-StyleSense/
+hackathon/
 │
-├── backend/
-│   ├── app.py
-│   ├── recommendation_engine.py
-│   ├── generative_model.py
-│   └── database.py
+├── idea.txt
+├── prompt.txt
 │
-├── frontend/
-│   ├── src/
-│   └── public/
-│
-├── dataset/
-│   └── fashion_dataset.csv
-│
-├── models/
-│   └── trained_model.pkl
-│
-├── requirements.txt
-└── README.md
+└── Fashionista_Project/
+    │
+    └── fashionista-2-0-main/
+        │
+        ├── public/
+        ├── src/
+        │
+        ├── README.md
+        ├── bun.lockb
+        ├── components.json
+        ├── eslint.config.js
+        ├── index.html
+        ├── package-lock.json
+        ├── package.json
+        ├── postcss.config.js
+        ├── tailwind.config.ts
+        ├── tsconfig.app.json
+        ├── tsconfig.json
+        ├── tsconfig.node.json
+        ├── vite.config.ts
+        └── vitest.config.ts
 ```
 
 ---
